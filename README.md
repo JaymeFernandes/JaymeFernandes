@@ -1,29 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+repository!;My+name+is+Jayme+Fernandes;C%23+Developer+specializing+in+ASP.NET;Building+with+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+repository!;My+name+is+Jayme+Fernandes;C%23+Developer+specializing+in+ASP.NET;Building+with+Angular)](https://git.io/typing-svg)
 
 
 <div align="center">  
   <img width="49%" height="195px" src="./img/6442f199be3df90ed82537394491beb5.gif" alt="Matheus Maia Alvarez github stats" /> 
 </div>
-
-
-
  
 ### Main skills:
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=for-the-badge&logo=aps.net&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-0D1117?style=for-the-badge&logoColor=purple&labelColor=0D1117)&nbsp;
+![Identity Framework](https://img.shields.io/badge/Identity-0D1117?style=for-the-badge&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=#512BD4&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=#FCC624)&nbsp;    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40px" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40px" />
+                 
  
 ### Other Knowledge:
 ![DotNet](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=dotnet&logoColor=#512BD4&labelColor=0D1117)&nbsp;
@@ -35,8 +39,9 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=aps.net&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=aps.net&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Identity Framework](https://img.shields.io/badge/Identity-0D1117?style=for-the-badge&logoColor=purple&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
